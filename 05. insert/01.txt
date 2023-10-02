@@ -1,0 +1,10 @@
+/*Problem:
+
+Insert a new instructor record with id 4 for Sandip Saha who lives in Edmonton, CA into the “Instructor” table.
+
+Solution:
+*/
+INSERT INTO Instructor(ins_id, lastname, firstname, city, country)
+VALUES(4, 'Saha', 'Sandip', 'Edmonton', 'CA');
+
+SELECT * FROM Instructor;

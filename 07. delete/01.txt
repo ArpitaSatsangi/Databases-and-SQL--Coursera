@@ -1,0 +1,7 @@
+//Remove the instructor record of Doe whose id is 6.
+
+
+DELETE FROM instructor
+WHERE ins_id = 6;
+
+select * from Instructor;

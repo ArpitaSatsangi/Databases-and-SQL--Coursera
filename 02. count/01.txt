@@ -1,0 +1,3 @@
+//Retrieve the number of rows from the “FilmLocations” table.
+
+SELECT COUNT(*) FROM FilmLocations;

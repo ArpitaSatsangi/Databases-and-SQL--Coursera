@@ -1,0 +1,5 @@
+//Retrieve the number of release years of the films distinctly, produced by Warner Bros. Pictures.
+
+SELECT COUNT(DISTINCT ReleaseYear) 
+FROM FilmLocations 
+WHERE ProductionCompany="Warner Bros. Pictures";

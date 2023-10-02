@@ -1,0 +1,3 @@
+//Retrieve the number of locations of the films which are directed by Woody Allen.
+
+SELECT COUNT(Locations) FROM FilmLocations WHERE Director="Woody Allen";

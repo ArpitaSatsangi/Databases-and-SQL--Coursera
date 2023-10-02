@@ -1,0 +1,6 @@
+//Update the city of the instructor record to Markham whose id is 1.
+
+UPDATE Instructor 
+SET city='Markham' 
+WHERE ins_id=1;
+SELECT * FROM Instructor;

@@ -1,0 +1,3 @@
+//Retrieve the first 15 rows from the “FilmLocations” table starting from row 11.
+
+SELECT * FROM FilmLocations LIMIT 15 OFFSET 10;

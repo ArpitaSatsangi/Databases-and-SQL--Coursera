@@ -1,0 +1,3 @@
+//Retrieve first 10 film names distinctly released in 2015.
+
+SELECT DISTINCT Title FROM FilmLocations WHERE ReleaseYear=2015 LIMIT 10;

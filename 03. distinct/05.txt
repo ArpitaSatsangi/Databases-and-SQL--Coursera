@@ -1,0 +1,5 @@
+//Retrieve the number of distributors distinctly who distributed films acted by Clint Eastwood as 1st actor.
+
+SELECT COUNT(DISTINCT Distributor) 
+FROM FilmLocations 
+WHERE Actor1="Clint Eastwood";

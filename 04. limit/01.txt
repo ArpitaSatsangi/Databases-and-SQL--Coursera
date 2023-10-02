@@ -1,0 +1,3 @@
+//Retrieve the first 25 rows from the “FilmLocations” table.
+
+SELECT * FROM FilmLocations LIMIT 25;

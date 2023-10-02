@@ -1,0 +1,12 @@
+/*Problem:
+
+Insert a new instructor record with id 7 for Antonio Cangiano who lives in Vancouver, CA into the “Instructor” table.
+
+Hint
+Solution
+*/
+
+INSERT INTO Instructor(ins_id, lastname, firstname, city, country)
+VALUES(7, 'Cangiano', 'Antonio', 'Vancouver', 'CA');
+
+SELECT * FROM Instructor;

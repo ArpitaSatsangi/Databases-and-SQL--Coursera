@@ -1,0 +1,3 @@
+//Retrieve the names of all the directors and their distinct films shot at City Hall.
+
+SELECT DISTINCT Title, Director FROM FilmLocations WHERE Locations="City Hall";

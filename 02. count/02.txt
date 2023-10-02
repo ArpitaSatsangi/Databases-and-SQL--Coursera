@@ -1,0 +1,3 @@
+//Retrieve the number of locations of the films which are written by James Cameron.
+
+SELECT COUNT(Locations) FROM FilmLocations WHERE Writer="James Cameron";

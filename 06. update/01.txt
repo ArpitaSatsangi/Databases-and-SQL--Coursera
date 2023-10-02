@@ -1,0 +1,5 @@
+//Update the city for Sandip to Toronto.
+
+UPDATE Instructor 
+SET city='Toronto' 
+WHERE firstname="Sandip";

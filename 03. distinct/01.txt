@@ -1,0 +1,4 @@
+//Retrieve the name of all films without any repeated titles.
+
+
+SELECT DISTINCT Title FROM FilmLocations;

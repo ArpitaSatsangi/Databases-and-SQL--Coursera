@@ -1,0 +1,3 @@
+//Retrieve the number of rows having a release year older than 1950 from the “FilmLocations” table.
+
+SELECT Count(*) FROM FilmLocations WHERE ReleaseYear<1950;
