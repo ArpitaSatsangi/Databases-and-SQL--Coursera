@@ -3,10 +3,4 @@
 * The Relational Model is the most used data model for databases because it allows for data independence. 
 * The primary key of a relational table uniquely identifies each tuple or row, preventing duplication of data and providing a way of defining relationships between tables. 
 * SQL statements fall into two different categories: Data Definition Language (DDL) statements and Data Manipulation Language (DML) statements.
-
-
-# SQL
-* SQL is a language used for relational databases.
-
-# MySQL 
 * MySQL is a Relational Database Management System (RDBMS) designed to efficiently store, manipulate, and retrieve data.
