@@ -1,0 +1,5 @@
+// ALTER using ALTER COLUMN:-
+//Change the data type to VARCHAR(20) type of the column PET of the table PETSALE and show the altered table.
+
+ALTER TABLE PETSALE CHANGE PET  PET VARCHAR(20);
+SELECT * FROM PETSALE;

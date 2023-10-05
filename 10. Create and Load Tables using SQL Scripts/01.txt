@@ -1,0 +1,16 @@
+Create tables using SQL scripts
+In this exercise, you will learn how to execute a script containing the CREATE TABLE commands for 
+all the tables rather than create each table manually by typing the DDL commands in the SQL editor.
+
+Download the script file to your computer:
+
+HR_Database_Create_Tables_Script.sql
+Select the HR database. Later click on the Import tab.
+
+Click on choose file. Browse for the file and upload it .
+
+Later scroll down and click on Go.
+
+The script then gets imported successfully.
+
+Click on any of the tables and you will see its Table Definition (that is, its list of columns, data types, etc).

@@ -1,0 +1,25 @@
+Load data into tables
+In this exercise, you will learn how data can be loaded into MySQL. You could manually insert each row into the table one by one, but that would take a long time. Instead, MySQL (and almost every other database) allows you to load data from .CSV files.
+
+The steps below explain the process of loading data into the tables you created earlier in exercise 1.
+
+Download the 5 .csv files below to your local computer:
+
+Departments.csv
+Employees.csv
+Jobs.csv
+Locations.csv
+JobsHistory.csv
+To load each table do the following steps.
+
+Select each table .
+
+Click on Import tab.
+
+Select the csv file and click on Go to load the csv file.
+
+
+Once the tables are loaded , you will get a message that the records are inserted successfully.
+
+
+Further you can click on browse and view the data of each table.

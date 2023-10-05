@@ -1,0 +1,6 @@
+//ALTER using RENAME COLUMN
+//Rename the column PET to ANIMAL of the PETSALE table and show the altered table.
+
+ALTER TABLE `PETSALE` 
+CHANGE `PET` `ANIMAL` varchar(20);
+SELECT * FROM PETSALE;

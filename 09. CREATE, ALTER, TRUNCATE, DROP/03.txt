@@ -1,0 +1,7 @@
+// ALTER using DROP COLUMN:-
+//Delete the PROFIT column from the PETSALE table and show the altered table
+
+ALTER TABLE PETSALE
+DROP COLUMN PROFIT;
+
+SELECT * FROM PETSALE;
