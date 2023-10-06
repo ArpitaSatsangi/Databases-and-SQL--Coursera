@@ -1,3 +1,8 @@
+* You can use Data Manipulation Language (DML) statements to read and modify data. 
+* The search condition of the WHERE clause uses a predicate to refine the search. 
+* COUNT, DISTINCT, and LIMIT are expressions that are used with SELECT statements. 
+* INSERT, UPDATE, and DELETE are DML statements for populating and changing tables. 
+
 * A database is a repository of data that provides functionality for adding, modifying, and querying the data. 
 * SQL is a language used to query or retrieve data from a relational database. 
 * The Relational Model is the most used data model for databases because it allows for data independence. 
