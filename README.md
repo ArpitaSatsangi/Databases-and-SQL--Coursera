@@ -1,3 +1,5 @@
+# Summary
+
 * You can use Data Manipulation Language (DML) statements to read and modify data. 
 * The search condition of the WHERE clause uses a predicate to refine the search. 
 * COUNT, DISTINCT, and LIMIT are expressions that are used with SELECT statements. 
@@ -34,3 +36,9 @@ The close() method, which is used to close a database connection.
 Magic commands have the general format %sql select * from tablename.
 Cell magics start with a double %% (percent) sign and apply to the entire cell.
 Line magics start with a single % (percent) sign and apply to a particular line in a cell.
+---------------------------------------------------------------------------------------------------------
+* Views are a dynamic mechanism for presenting data from one or more tables.A transaction represents a complete unit of work, which can be one or more SQL statements.
+* An ACID transaction is one where all the SQL statements must complete successfully, or none at all.
+* A stored procedure is a set of SQL statements that are stored and executed on the database server, allowing you to send one statement as an alternative to sending multiple statements.
+*  A database transaction must be ACID (Atomic, Consistent, Isolated and Durable). 
+* You can write stored procedures in many different languages like SQL PL, PL/SQL, Java, and C.
