@@ -42,3 +42,5 @@ Line magics start with a single % (percent) sign and apply to a particular line 
 * A stored procedure is a set of SQL statements that are stored and executed on the database server, allowing you to send one statement as an alternative to sending multiple statements.
 *  A database transaction must be ACID (Atomic, Consistent, Isolated and Durable). 
 * You can write stored procedures in many different languages like SQL PL, PL/SQL, Java, and C.
+---------------------------------------------------------------------------------------------------------
+![sql](https://github.com/ArpitaSatsangi/Databases-and-SQL--Coursera/assets/107709451/472e7246-ba9d-4db2-b796-b967a22db1fb)
